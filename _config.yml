@@ -1,11 +1,21 @@
-title: John Doe # your name (or website title) here
+title: Himani Jaiswal # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > 
+About
+MY BACKGROUND
+
+As a Data Analyst at Loblaws, I harness my expertise in data analytics, database management, and business intelligence to drive impactful solutions across diverse data projects. 
+My role involves utilizing advanced tools and technologies such as SQL, Snowflake, Excel, Python, Tableau and Power BI to develop and maintain intricate databases, create insightful dashboards, and streamline reporting processes. 
+My hands-on experience includes optimizing inventory management systems, automating marketing reports, and integrating data from various sources to enhance operational efficiency and decision-making.
+
+My professional journey has been defined by a commitment to data integrity, process improvement, and stakeholder collaboration. 
+With a passion for transforming data into actionable insights and a strong background in Agile methodologies, I continuously seek opportunities to expand my expertise and contribute to innovative data solutions that drive business success. 
+# your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/himani-jaiswal18/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
